@@ -34,4 +34,4 @@ Jiang, J., Li, Y., Cao, S., Shan, Y., Liu, Y., Fei, T., and Yuan, J. (2025). Art
 
 Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., and Hassabis, D. (2021). Highly accurate protein structure prediction with AlphaFold. _Nature_, **596**(7873), 583-589.
 
-Zou, J., Huss, M., Abid, A., Mohammadi, P., Torkamani, A., and Telenti, A. (2019). A primer on deep learning in genomics. _Nature genetics_, **51**(1), 12-18.
+Zou, J., Huss, M., Abid, A., Mohammadi, P., Torkamani, A., and Telenti, A. (2019). A primer on deep learning in genomics. _Nature Genetics_, **51**(1), 12-18.
